@@ -1,5 +1,5 @@
 # SeenWeb
-#ba in app mishe bray site bazdid zad ba proxy https :)
+#send visit to website with proxy https :)
 
 
 
